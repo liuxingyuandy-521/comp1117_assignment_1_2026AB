@@ -4,6 +4,7 @@
 
 A group of visitors arrives at a museum and needs to buy tickets. Write a program that reads the visit day and the visitors’ ages, works out the cheapest correct total, which means forming a group whenever a group of 5 adults is possible, and prints a short summary.
 
+
 **This assignment is done with the course AI assistant, in a specific order.**
 First, reason through the problem yourself with your AI assistant, and
 record the outcome in `Specifications.md`. You supply the reasoning and
@@ -122,7 +123,7 @@ Adults: 6
 Seniors: 2
 Total people: 10
 Groups formed: 1
-Discount: 0.00
+Discount: 0.00。032
 Service fee: 30.00
 Total cost: 405.00
 ```
@@ -277,6 +278,18 @@ The rubrics below describe each band; the mark for a band is fixed and shared wi
 | Weak / none | Very few cases and no meaningful coverage; no test file counts here. |
 
 **How you used the AI, 30%:**
+
+
+
+
+
+
+
+
+
+
+
+service
 
 | Level | What it looks like |
 |---|---|
