@@ -30,6 +30,7 @@ wording pasted back. Work through each part below:
 
 - **Logic:** what the program must do, rule by rule
 
+
 - **Boundaries:** where exactly the behaviour changes as an input changes,
   and what happens on each side.
 
