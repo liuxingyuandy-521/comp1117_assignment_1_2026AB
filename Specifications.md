@@ -28,37 +28,14 @@ State what the progr
 am must do, in your own words, not the assignment's
 wording pasted back. Work through each part below:
 
-- **Logic:** what the program must do, rule by rule.
-
-
-
-
-
-
-
-
-
-
+- **Logic:** what the program must do, rule by rule
 
 - **Boundaries:** where exactly the behaviour changes as an input changes,
   and what happens on each side.
 
 
-
-
-
-
-
-
-
-
-
 - **Order:** the steps as a numbered list in plain sentences, not Python:
   what must happen first, and what can only be done after input ends?
-
-
-
-
 
 
 
